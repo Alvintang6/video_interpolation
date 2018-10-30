@@ -2,9 +2,9 @@
 
 This project is updated from [dagf2101/pytorch-sepconv](https://github.com/dagf2101/pytorch-sepconv)  
 
-And the original author is [sniklaus/pytorch-sepconv]
+And the original author is [sniklaus/pytorch-sepconv] (https://github.com/sniklaus/pytorch-sepconv)
 
-##updates:
+## updates:
 
 1. some code robustness   
 
@@ -12,7 +12,7 @@ And the original author is [sniklaus/pytorch-sepconv]
 
 3. increase a progress bar when processing   
 
-###setup for this video-sepconv:
+### setup for this video-sepconv:
 
 using moviepy as video process library:
 
