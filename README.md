@@ -16,9 +16,7 @@ And the original author is [sniklaus/pytorch-sepconv](https://github.com/sniklau
 
 using moviepy as video process library:
 
-`pip install moviepy
-
-`
+`pip install moviepy`
 
 using cupy :
 
