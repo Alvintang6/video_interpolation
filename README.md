@@ -2,7 +2,7 @@
 
 This project is updated from [dagf2101/pytorch-sepconv](https://github.com/dagf2101/pytorch-sepconv)  
 
-And the original author is [sniklaus/pytorch-sepconv] (https://github.com/sniklaus/pytorch-sepconv)
+And the original author is [sniklaus/pytorch-sepconv](https://github.com/sniklaus/pytorch-sepconv)
 
 ## updates:
 
